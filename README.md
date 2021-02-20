@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @a1k89
-- 👀 I’m interested in python, django, swift, react. And clean architecture 
-- 🌱 I’m currently learning django microservices
+## Hello!
 
-<!---
-a1k89/a1k89 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+How are you?
+
+- 🗒 &nbsp; I like back end side and Django especially
+- 🗒 &nbsp; I like made a perfect and client-oriented API
+- 🗒 &nbsp; I like iOS stack and write on swift and objc also
+- 🗒 &nbsp; Open source projects? Yes, if it really helpful
