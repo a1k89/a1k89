@@ -1,7 +1,7 @@
 ## Hello!
 
-- I like back-end side and Django especially
-- I made a perfect and client-oriented API
-- Have a good solution? Welcome the opensource)
-- Have a trouble? Welcome to stackoverflow)
-- [helpers](https://gist.github.com/a1k89)
+- Engineer
+- Back end and Django especially
+- Perfect and client-oriented API
+- [gists](https://gist.github.com/a1k89)
+- [wiki blog](https://github.com/a1k89/blog/wiki)
