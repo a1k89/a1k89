@@ -1,7 +1,7 @@
 ## Hello!
 
-- Engineer
-- Back end and Django especially
+- Engineer over 8 years
+- Python&Django
 - Client-oriented API
 - E-commerce (elasticsearch, faceting and etc)
 - Smart design patterns for your bussiness logic
