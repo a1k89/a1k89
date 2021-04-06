@@ -7,4 +7,3 @@
 - Smart design patterns for your bussiness logic
 - [gists](https://gist.github.com/a1k89)
 - [wiki blog](https://github.com/a1k89/blog/wiki)
-- [dev.to](https://dev.to/a1k89)
