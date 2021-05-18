@@ -1,7 +1,6 @@
 ## Hello!
 
 - Engineer
-- Python (Django) 
 - API
 - Design patterns
 - [gists](https://gist.github.com/a1k89)
