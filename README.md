@@ -5,7 +5,7 @@
 - **Back end**
 - **Front end**
 - **Mobile development**
-- **services**
-- Python (Django), Objc, Swift, JS
+- **API and services**
+- Python, Objective-C, Swift, JavaScript
 - [snippets](https://gist.github.com/a1k89)
 - [ideas](https://github.com/a1k89/blog/wiki)
