@@ -7,5 +7,5 @@
 - **Mobile development**
 - **services**
 - Python (Django), Objc, Swift, JS
-- [gists](https://gist.github.com/a1k89)
-- [wiki blog](https://github.com/a1k89/blog/wiki)
+- [snippets](https://gist.github.com/a1k89)
+- [ideas](https://github.com/a1k89/blog/wiki)
