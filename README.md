@@ -3,4 +3,4 @@
 - **API and services**
 - **Front end / Mobile development**
 - [snippets](https://gist.github.com/a1k89)
-- [articles](https://github.com/a1k89/blog/wiki)
+- [Read my articles](https://github.com/a1k89/blog/wiki)
