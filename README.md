@@ -2,5 +2,5 @@
 - **Python**
 - **API and services**
 - **Front end / Mobile development**
-- [snippets](https://gist.github.com/a1k89)
+- [Snippets](https://gist.github.com/a1k89)
 - [Read my articles](https://github.com/a1k89/blog/wiki)
