@@ -4,6 +4,6 @@
 - **Front end**
 - **Mobile development**
 
-- Python, Swift, Objective-C, JavaScript
+- Additional: Swift, Objective-C, JS
 - [snippets](https://gist.github.com/a1k89)
 - [articles](https://github.com/a1k89/blog/wiki)
