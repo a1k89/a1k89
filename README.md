@@ -1,4 +1,4 @@
-- Engineer (since 2012)
+- Software Engineer (since 2012)
 - **Python**
 - **API and microservices**
 - **Front end / Mobile development**
