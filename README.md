@@ -1,4 +1,3 @@
 - **Back end**
 - **Front end**
 - **Mobile development** 
-- [Blog](https://github.com/a1k89/blog/wiki)
