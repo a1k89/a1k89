@@ -1,3 +1,1 @@
-- **Back end**
-- **Front end**
-- **Mobile development** 
+- **Software Engineer** 
